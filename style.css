@@ -8,7 +8,7 @@ body {
 
 header {
     background-color: #333;
-    color: white;
+    color:red;
     padding: 10px 0;
     text-align: center;
 }
@@ -24,7 +24,7 @@ header nav ul li {
 }
 
 header nav ul li a {
-    color: white;
+    color:blue;
     text-decoration: none;
     font-size: 18px;
 }
@@ -57,7 +57,7 @@ input, textarea {
 /* Footer styling */
 footer {
     background-color: #333;
-    color: white;
+    color:violet;
     padding: 10px;
     text-align: center;
 }
